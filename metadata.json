@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "source": "fanqiang123",
+  "sourceUpdatedAt": "2026-11-24T09:16:57+00:00",
+  "publishedAt": "2026-11-24T09:21:01.058Z",
+  "counts": {
+    "clash": 1335,
+    "v2ray": 1129,
+    "singbox": 1045
+  },
+  "files": {
+    "clash.yaml": {
+      "sha256": "9e4f8e90924f78b18c78a30c2688f68c458123dd4da8810f051485de45e5afb9",
+      "bytes": 400746
+    },
+    "v2ray.txt": {
+      "sha256": "580ac6823001832ecbcb616e87a4a9da13fe773dd350abaf1e9ab2e22ad6b152",
+      "bytes": 314700
+    },
+    "sing-box.json": {
+      "sha256": "0a3c247cdebecd151004d51c83d097d5ae177055e6e9771cccf586daad8bcd6b",
+      "bytes": 305905
+    }
+  }
+}
