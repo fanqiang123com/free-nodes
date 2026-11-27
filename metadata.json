@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "source": "翻墙123",
-  "sourceUpdatedAt": "2026-11-27T09:00:02+00:00",
-  "publishedAt": "2026-11-27T09:52:39.292Z",
+  "sourceUpdatedAt": "2026-11-27T21:00:02+00:00",
+  "publishedAt": "2026-11-27T21:41:30.495Z",
   "counts": {
-    "clash": 1705,
-    "v2ray": 1431,
-    "singbox": 1351
+    "clash": 1207,
+    "v2ray": 1029,
+    "singbox": 965
   },
   "files": {
     "clash.yaml": {
-      "sha256": "5541972e122f36269a9830ebea140720d8806867cfe33f5bb5ff622605a6e0d6",
-      "bytes": 549569
+      "sha256": "9ca0f9ed55651e4f7670acc4c97c0f9c8633b3b423cf96471e6eecde907689ad",
+      "bytes": 345013
     },
     "v2ray.txt": {
-      "sha256": "1fddd7de3dbb9949571ed3aa4370a586f7b6e134a58bf31790f6e7ef150d3b9a",
-      "bytes": 399708
+      "sha256": "26dbb3a8b6f3dea7d38e8951d410850f65c41ef5598c4f015ccdf66bb8226ac2",
+      "bytes": 286116
     },
     "sing-box.json": {
-      "sha256": "833a2cc9e102f9ad324e89b89c49d4069b5aeebbe0f710c4a3b056b25f2aa763",
-      "bytes": 405221
+      "sha256": "1499a32bc60710bb09cdffa33f815f7148faa27609140d9e803da6c9f725e6fc",
+      "bytes": 281464
     }
   }
 }
